@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.section1-img{
+background-image: url("../Media/Section1.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.personal-bg{
+  background-image: url("../Media/Yacht\ 1821.jpg");
+}
+.vision-bg{
+  background-image: url("../Media/World\ Map\ \(dots\).png");
+}
+.ship-bg{
+  background-image: url("../Media/Yacht\ 1822.jpg");
+}
